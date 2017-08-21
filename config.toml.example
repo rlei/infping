@@ -1,7 +1,7 @@
 [influxdb]
 
-host = "10.0.3.195"
-port = "8086"
+# or "https://secure.server.url:port"
+url = "http://10.0.3.195:8086"
 db = "ping"
 measurement = "ping"
 user = "ping"
