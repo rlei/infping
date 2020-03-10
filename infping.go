@@ -4,7 +4,7 @@
 package main
 
 import (
-    "github.com/influxdata/influxdb/client"
+    "github.com/influxdata/influxdb1-client"
     "github.com/pelletier/go-toml"
     "fmt"
     "log"
